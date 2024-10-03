@@ -8,5 +8,6 @@ namespace microservcursomestrado.curso.entidade
     public class Curso
     {
         public Guid Id { get; set; }
+        public string Nome { get; set; }
     }
 }
